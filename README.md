@@ -2,15 +2,14 @@
 # 目标识别与位姿估计
 
 
-- [Citation](#citation)
-- [目标识别(Target Regnition)](#目标识别Target Regnition)
-  - [多模态视觉融合()](#多模态视觉融合Multimodal visual fusion)
-  - [目标检测与分割()](#目标检测与分割Object Detection and Segmentation)
-  - [迁移学习与少样本学习()](#迁移学习与少样本学习Transfer Learning and Few-Shot Learning)
-- [位姿估计(Pose Estimation)](#位姿估计Pose Estimation)
-  - [直接回归()](#直接回归Direct regression)
-  - [关键点检测()](#关键点检测Keypoint Detection)
-  - [无监督及域自适应()](#无监督及域自适应Unsupervised and Domain Adaptation)
+- [目标识别(Target Regnition)](#目标识别)
+  - [多模态视觉融合()](#目标识别)
+  - [目标检测与分割()](#目标识别)
+  - [迁移学习与少样本学习()](#目标识别)
+- [位姿估计(Pose Estimation)](#位姿估计)
+  - [直接回归()](#位姿估计)
+  - [关键点检测()](#位姿估计)
+  - [无监督及域自适应()](#位姿估计)
 - [综述(Survey)](#综述survey)
 - [数据集(Dataset)](#数据集dataset)
 - [评估指标(Evaluation Metric)](#评估指标evaluation-metric)
