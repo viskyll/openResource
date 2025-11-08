@@ -11,6 +11,9 @@
   - [无监督及域自适应(Unsupervised and Domain Adaptation)](#无监督及域自适应unsupervised-and-domain-adaptation)
 - [综述(Survey)](#综述survey)
 - [数据集(Dataset)](#数据集dataset)
+- [评估指标(Evaluation Metric)](#评估指标evaluation-metric)
+  - [目标识别评估指标(Target regnition evaluation metric)](#目标识别评估指标target-regnition-evaluation-metric)
+  - [位姿估计评估指标(Pose estimation evaluation metric)](#位姿估计评估指标evaluation-metric-for-pansharpening)
 
 
 ## 目标识别(Target Regnition)
@@ -742,6 +745,13 @@
   </tr>
 </tbody>
 </table>
+
+## 评估指标(Evaluation Metric)
+### 目标识别评估指标(Target regnition evaluation metric)
+评估指标位于： https://blog.csdn.net/wzk4869/article/details/127879761
+### 位姿估计评估指标(Evaluation metric for pansharpening)
+评估指标位于： https://blog.csdn.net/m0_38139098/article/details/109532318
+
 
 
 
