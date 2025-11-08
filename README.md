@@ -1,20 +1,16 @@
 
 # 目标识别与位姿估计
 
-
-- [目标识别(Target Regnition)](#目标识别Target Regnition)
-  - [多模态视觉融合()](#多模态视觉融合Multimodal visual fusion)
-  - [目标检测与分割()](#目标检测与分割Object Detection and Segmentation)
-  - [迁移学习与少样本学习()](#迁移学习与少样本学习Transfer Learning and Few-Shot Learning)
-- [位姿估计(Pose Estimation)](#位姿估计Pose Estimation)
-  - [直接回归()](#直接回归Direct regression)
-  - [关键点检测()](#关键点检测Keypoint Detection)
-  - [无监督及域自适应()](#无监督及域自适应Unsupervised and Domain Adaptation)
+- [目标识别(Target Regnition)](#目标识别target-regnition)
+  - [多模态视觉融合(Multimodal visual fusion)](#多模态视觉融合multimodal-visual-fusion)
+  - [目标检测与分割(Object Detection and Segmentation)](#目标检测与分割object-detection-and-segmentation)
+  - [迁移学习与少样本学习(Transfer Learning and Few-Shot Learning)](#迁移学习与少样本学习transfer-learning-and-few-shot-learning)
+- [位姿估计(Pose Estimation)](#位姿估计)
+  - [直接回归(Direct regression)](#直接回归direct-regression)
+  - [关键点检测(Keypoint Detection)](#关键点检测keypoint-detection)
+  - [无监督及域自适应(Unsupervised and Domain Adaptation)](#无监督及域自适应unsupervised-and-domain-adaptation)
 - [综述(Survey)](#综述survey)
 - [数据集(Dataset)](#数据集dataset)
-- [评估指标(Evaluation Metric)](#评估指标evaluation-metric)
-  - [通用评估指标(General evaluation metric)](#通用评估指标general-evaluation-metric)
-  - [遥感影像融合评估指标](#遥感影像融合评估指标)
 
 
 ## 目标识别(Target Regnition)
