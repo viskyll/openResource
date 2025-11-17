@@ -53,7 +53,7 @@
         <td>ResNet/改进的PointNet++</td>
         <td>Grasping position recognition of spatial non-cooperative targets based on active light detection</td>
         <td><a href="https://dx.doi.org/10.1088/1742-6596/2029/1/012130">Paper</a></td>
-        <td></td>
+        <td>无</td>
         <td>Journal of Physics: Conference Series</td>
         <td>PointNet++</td>
         <td>2021</td>
