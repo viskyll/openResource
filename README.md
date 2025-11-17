@@ -80,7 +80,7 @@
         <td>多层Transformer</td>
         <td>Deep learning-based target pose estimation using LiDAR measurements in active debris removal operations</td>
         <td><a href="https://ieeexplore.ieee.org/abstract/document/8009769/">Paper</a></td>
-        <td></td>
+        <td>无</td>
         <td>IEEE Transactions on Aerospace and Electronic Systems</td>
         <td>Transformer</td>
         <td>2023</td>
@@ -287,7 +287,7 @@
         <td>Dual Transformer</td>
         <td>An efficient pose estimation algorithm for non-cooperative space objects based on dual-channel transformer</td>
         <td><a href="https://www.mdpi.com/2072-4292/15/22/5278">Paper</a></td>
-        <td></td>
+        <td>无</td>
         <td>Remote Sensing</td>
         <td>Transformer</td>
         <td>2023</td>
